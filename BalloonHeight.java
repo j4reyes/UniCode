@@ -1,3 +1,8 @@
+/*
+This program takes a quadratic equation and two variables, then calculates the height of the balloon given those two variables.
+Creator: Jacob Reyes
+Problem source: https://dmoj.ca/problem/ccc11j2
+*/
 import java.lang.Math; 
 import java.util.Scanner;
 class BalloonHeight{
